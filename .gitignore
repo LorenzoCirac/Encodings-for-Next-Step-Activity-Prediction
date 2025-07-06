@@ -4,5 +4,5 @@ venv/
 
 .DS_Store
 
-data/*.xes
-!data/Helpdesk.xes
+data/Road_Traffic_Fine_Management_Process.xes
+data/Hospital Billing - Event Log.xes
